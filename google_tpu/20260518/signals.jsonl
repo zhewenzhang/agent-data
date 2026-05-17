@@ -1,0 +1,13 @@
+{"company":"Google","date":"2026-05-18","category":"TPU产品路线图","signal":"TPU v5p已量产GCP可用，TPU v6e(Trillium)已发布GCP可用，Ironwood下一代TPU架构研发中/预发布","source":"行业通识","confidence":"high","impact":"high"}
+{"company":"Google","date":"2026-04-22","category":"TPU产品路线图","signal":"联发科为Marvell供应未来三代Google TPU芯片关键组件，供应链路径联发科→Marvell→Google TPU，三代合作锁定长期供应","source":"DigiTimes 2026-04-22","confidence":"high","impact":"high"}
+{"company":"Google","date":"2026-03-31","category":"TPU产品路线图","signal":"NVIDIA投资$2B于Marvell扩展NVLink Fusion生态，Marvell作为Google TPU主要ASIC设计合作伙伴获得NVIDIA战略投资，竞合关系复杂","source":"Marvell Newsroom 2026-03-31","confidence":"high","impact":"high"}
+{"company":"Google","date":"2026-05-18","category":"封装/供应链","signal":"Google TPU由台积电先进制程(N3/N2)代工，采用CoWoS先进封装，是台积电CoWoS产能重要消耗者","source":"行业通识","confidence":"high","impact":"high"}
+{"company":"Google","date":"2026-03-27","category":"封装/供应链","signal":"SK Hynix为Google TPU提供HBM内存，cHBM定制HBM Stream DQ Architecture可提升推理吞吐量7倍","source":"SK Hynix Newsroom GTC 2026 Review","confidence":"high","impact":"high"}
+{"company":"Google","date":"2026-03-27","category":"封装/供应链","signal":"SK集团董事长崔泰源一周内会见Google等五家科技巨头CEO，讨论定制化内存解决方案共同设计和AI数据中心架构合作('AI内存外交')","source":"SK Hynix Newsroom GTC 2026 Review","confidence":"high","impact":"medium"}
+{"company":"Google","date":"2026-05-06","category":"封装/供应链","signal":"云厂商资本开支超$725B推动内存需求，HBM供应缺口延伸至2028年以后，Google作为主要云厂商TPU扩张面临内存供应约束","source":"DigiTimes 2026-05-06","confidence":"high","impact":"high"}
+{"company":"Google","date":"2026-05-18","category":"客户采用","signal":"TPU v5p/v6e(GCP可用)面向大规模AI训练和推理，按需和预留实例定价，Google Cloud持续扩张AI数据中心","source":"行业通识","confidence":"high","impact":"high"}
+{"company":"Google","date":"2026-05-18","category":"竞争","signal":"超大规模云厂商越来越多采用定制ASIC(Google TPU/AWS Trainium/Azure Maia)替代通用GPU，成本和特定工作负载性能优势驱动","source":"行业通识","confidence":"high","impact":"high"}
+{"company":"Google","date":"2026-05-15","category":"竞争","signal":"Cerebras $66B市值IPO+OpenAI $20B合同验证非GPU AI芯片市场，Cerebras WSE-3 SRAM架构vs Google TPU HBM架构竞争","source":"EE Times 2026-05-15","confidence":"high","impact":"medium"}
+{"company":"Google","date":"2026-05-14","category":"竞争","signal":"NVIDIA-Groq $20B交易将Groq LP30集成到Vera Rubin，每GW收入机会$300B，Groq LPU在高交互性推理场景与Google TPU竞争","source":"EE Times 2026-05-14","confidence":"high","impact":"high"}
+{"company":"Google","date":"2026-05-18","category":"软件生态","signal":"JAX+TensorFlow+XLA编译器+Pax/MaxText构成Google TPU完整软件栈，JAX为TPU深度优化，XLA提供性能优化","source":"行业通识","confidence":"high","impact":"medium"}
+{"company":"Google","date":"2026-03-27","category":"封装/供应链","signal":"NVIDIA Vera Rubin每个rack需约9,600 TB eSSD存储容量(ICMS专用存储层)，SK Hynix提供eSSD，AI基础设施存储需求激增","source":"SK Hynix Newsroom GTC 2026 Review","confidence":"high","impact":"medium"}
