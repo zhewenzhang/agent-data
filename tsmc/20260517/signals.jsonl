@@ -1,0 +1,22 @@
+{"company":"TSMC","date":"2026-05-17","category":"制程进展","signal":"N2(2nm)为台积电首个GAA纳米片晶体管节点，计划2025H2风险量产、2026年量产，客户包括Apple、NVIDIA、AMD、Qualcomm、MediaTek","source":"DigiTimes/行业通识","confidence":"high","impact":"high"}
+{"company":"TSMC","date":"2026-05-11","category":"制程进展","signal":"AMD将部分2nm芯片代工从台积电转向三星，动摇台积电AI芯片供应链垄断地位，为台积电N2节点首批重大客户流失信号","source":"DigiTimes 2026-05-11","confidence":"high","impact":"high"}
+{"company":"TSMC","date":"2026-05-17","category":"制程进展","signal":"A16(1.6nm)采用背面供电(Backside Power Delivery)技术，计划2026-2027年量产，面向AI/HPC高性能应用","source":"行业通识","confidence":"medium","impact":"high"}
+{"company":"TSMC","date":"2026-05-17","category":"制程进展","signal":"N3系列已形成完整家族(N3/N3E/N3P/N3X)，N3P计划2026年量产，N3X面向HPC/AI，Apple N3E已量产","source":"行业通识","confidence":"high","impact":"medium"}
+{"company":"TSMC","date":"2026-04-27","category":"制程进展","signal":"台积电拒绝采购ASML High-NA EUV光刻设备，选择通过多重曝光和工艺优化实现等效分辨率，技术路线选择影响未来制程演进节奏","source":"DigiTimes 2026-04-27","confidence":"high","impact":"high"}
+{"company":"TSMC","date":"2026-05-14","category":"CoWoS产能","signal":"AI芯片需求激增推动CoWoS产能持续紧张，先进封装材料需求激增，客户包括NVIDIA(B200/B300/GB200/Vera Rubin)、AMD(MI300X/MI350X/MI450)、Google TPU","source":"DigiTimes 2026-05-14","confidence":"high","impact":"high"}
+{"company":"TSMC","date":"2026-05-14","category":"CoWoS产能","signal":"台湾半导体材料行业呈现双赛道——先进封装材料(CoWoS/ABF基板)需求激增与传统制程材料稳定增长，封装收入受益于AI芯片需求持续攀升","source":"DigiTimes 2026-05-14","confidence":"high","impact":"high"}
+{"company":"TSMC","date":"2026-05-14","category":"CoWoS产能","signal":"台湾创业公司Galatek瞄准先进封装市场，目标客户包括台积电，显示CoWoS产能紧张催生新进入者和供应链机会","source":"DigiTimes 2026-05-14","confidence":"medium","impact":"medium"}
+{"company":"TSMC","date":"2026-05-17","category":"CoWoS产能","signal":"CoWoS技术矩阵已形成CoWoS-S(标准HPC/AI)、CoWoS-L(超大芯片)、CoWoS-R(RDL应用)三线并行，3DFabric平台整合CoWoS+InFO+SoIC","source":"行业通识","confidence":"high","impact":"medium"}
+{"company":"TSMC","date":"2026-05-14","category":"ABF基板需求","signal":"AI芯片推动高层数ABF基板需求激增，供应商Ibiden/Shinko/Ajinomoto受益，ABF基板成为先进封装关键瓶颈材料","source":"DigiTimes/行业通识","confidence":"high","impact":"high"}
+{"company":"TSMC","date":"2026-05-17","category":"客户订单","signal":"NVIDIA为台积电最大AI芯片客户，B200/B300/GB200/Vera Rubin大量使用CoWoS-L封装，Groq LP30集成进一步增加先进封装需求","source":"EE Times GTC 2026报道","confidence":"high","impact":"high"}
+{"company":"TSMC","date":"2026-05-17","category":"客户订单","signal":"AMD MI350X/MI355X/MI450/MI455X GPU仍由台积电代工，尽管部分2nm转单三星，当前产品线对台积电依赖度仍极高","source":"AMD IR + DigiTimes","confidence":"high","impact":"high"}
+{"company":"TSMC","date":"2026-04-22","category":"客户订单","signal":"联发科为Marvell供应未来三代Google TPU芯片关键组件，供应链路径为联发科→Marvell→Google TPU，深化亚洲半导体供应链在AI基础设施中的角色","source":"DigiTimes 2026-04-22","confidence":"high","impact":"medium"}
+{"company":"TSMC","date":"2026-05-12","category":"客户订单","signal":"Intel复兴策略依赖台积电认证的供应商网络，在产能和封装方面寻求台积电生态系统支持，Intel既是客户又是竞争对手的复杂关系","source":"DigiTimes 2026-05-12","confidence":"high","impact":"medium"}
+{"company":"TSMC","date":"2026-05-11","category":"竞争","signal":"Samsung获得AMD部分2nm代工订单，动摇台积电在AI芯片代工的垄断地位，Samsung Foundry竞争力提升信号","source":"DigiTimes 2026-05-11","confidence":"high","impact":"high"}
+{"company":"TSMC","date":"2026-04-17","category":"竞争","signal":"Intel 18A工艺良率有待改善导致CPU短缺，台积电在先进制程领域暂无直接竞争压力，但Intel代工战略向台积电生态靠拢","source":"DigiTimes 2026-04-17","confidence":"high","impact":"medium"}
+{"company":"TSMC","date":"2026-03-18","category":"竞争","signal":"Samsung为AMD MI455X提供HBM4(6代10nm-class DRAM+4nm逻辑基片,13 Gbps,3.3 TB/s)，同时讨论代工合作，Samsung在HBM和代工双线挑战台积电","source":"AMD-Samsung MOU 2026-03-18","confidence":"high","impact":"high"}
+{"company":"TSMC","date":"2026-05-15","category":"地缘政治","signal":"中国维持对磷化铟(InP)等稀土材料严格出口管制，尽管Trump-Xi会谈未放松，影响台积电供应链中半导体衬底和光学器件材料获取","source":"DigiTimes 2026-05-15","confidence":"high","impact":"medium"}
+{"company":"TSMC","date":"2026-05-17","category":"地缘政治","signal":"台积电亚利桑那Fab 21已量产4nm制程，更多先进制程工厂在规划中，美国本土化生产战略持续推进","source":"行业通识","confidence":"high","impact":"high"}
+{"company":"TSMC","date":"2026-05-17","category":"地缘政治","signal":"美国H-1B签证收紧导致半导体人才外流，Imec在卡塔尔开设研发中心吸引原本流向美国的人才，台积电全球人才竞争环境变化","source":"EE Times 2026-05-11","confidence":"medium","impact":"medium"}
+{"company":"TSMC","date":"2026-05-06","category":"供应链","signal":"云厂商资本开支超$725B推动内存需求，HBM供应缺口延伸至2028年以后，台积电CoWoS产能作为HBM封装关键环节面临长期供需紧张","source":"DigiTimes 2026-05-06","confidence":"high","impact":"high"}
+{"company":"TSMC","date":"2026-04-22","category":"供应链","signal":"日本地震加剧Kioxia NAND供应担忧，台积电日本熊本JASM工厂成熟制程面向汽车和消费电子，日本供应链风险需关注","source":"DigiTimes 2026-04-22","confidence":"medium","impact":"medium"}
