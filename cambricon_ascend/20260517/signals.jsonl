@@ -1,0 +1,18 @@
+{"company":"Cambricon","date":"2026-05-17","category":"产品路线图","signal":"寒武纪MLU370为主力AI训练/推理芯片(7nm/MLUv02架构)，MLU370-S4高端训练版本、MLU370-X8推理优化版本已形成产品矩阵","source":"行业通识","confidence":"medium","impact":"medium"}
+{"company":"Cambricon","date":"2026-05-17","category":"产品路线图","signal":"寒武纪MLU590下一代AI训练芯片研发中，预计5nm或更先进制程，目标对标NVIDIA A100/H100性能水平","source":"行业通识","confidence":"medium","impact":"high"}
+{"company":"Cambricon","date":"2026-05-17","category":"产品路线图","signal":"寒武纪软件生态包括BANG C/C++自研编程语言、MagicMind推理引擎、Cambricon Neuware SDK，生态成熟度仍落后CUDA","source":"行业通识","confidence":"medium","impact":"medium"}
+{"company":"Huawei","date":"2026-05-17","category":"产品路线图","signal":"昇腾91B为华为主力AI训练芯片(7nm/Da Vinci架构)，对标NVIDIA A100，国内云厂商广泛采用已量产","source":"行业通识","confidence":"high","impact":"high"}
+{"company":"Huawei","date":"2026-05-17","category":"产品路线图","signal":"昇腾910C改进版AI训练芯片(7nm)，功耗优化和良率提升，已小批量出货","source":"行业通识","confidence":"medium","impact":"high"}
+{"company":"Huawei","date":"2026-05-17","category":"产品路线图","signal":"昇腾920下一代AI训练芯片研发中，预计5nm(受限美国制裁可能采用N+2工艺)，目标对标NVIDIA H100/H200","source":"行业通识","confidence":"medium","impact":"high"}
+{"company":"Huawei","date":"2026-05-17","category":"产品路线图","signal":"华为昇腾软件生态CANN+MindSpore+Ascend SDK，生态成熟度落后CUDA但快速追赶，百度飞桨+昇腾深度合作","source":"行业通识","confidence":"high","impact":"medium"}
+{"company":"Huawei","date":"2026-05-17","category":"封装/供应链","signal":"受美国制裁限制无法获得台积电CoWoS封装，国内替代方案(通富微电、长电科技)提供2.5D/3D封装，与台积电存在代差但持续追赶","source":"行业通识","confidence":"high","impact":"high"}
+{"company":"Huawei","date":"2026-05-17","category":"封装/供应链","signal":"关键供应链瓶颈：EDA工具(Synopsys/Cadence受限，华大九天/概伦电子替代)、光刻(ASML EUV受限，DUV多重曝光)、ABF基板(兴森科技替代)","source":"DigiTimes/行业通识","confidence":"high","impact":"high"}
+{"company":"Huawei","date":"2026-05-14","category":"封装/供应链","signal":"YMTC/CXMT加速DRAM布局，为国产AI芯片提供内存配套，中国存储芯片自主化推进","source":"DigiTimes 2026-05-14","confidence":"high","impact":"medium"}
+{"company":"Huawei","date":"2026-05-17","category":"客户采用","signal":"阿里巴巴/百度/腾讯/字节跳动等国内云厂商采用昇腾和寒武纪芯片，运营商(移动/电信/联通)大规模采购昇腾用于AI基础设施","source":"行业通识","confidence":"high","impact":"high"}
+{"company":"Huawei","date":"2026-05-17","category":"客户采用","signal":"政府推动关键基础设施国产化替代，政府和国企优先采购国产AI芯片，国产化政策驱动需求","source":"行业通识","confidence":"high","impact":"high"}
+{"company":"Huawei","date":"2026-05-17","category":"政策/制裁","signal":"美国出口管制限制高端AI芯片(A100/H100)和先进制造设备对华出口，NVIDIA H20为针对中国市场的合规阉割版","source":"行业通识","confidence":"high","impact":"high"}
+{"company":"Huawei","date":"2026-05-15","category":"政策/制裁","signal":"中国维持对磷化铟(InP)等稀土材料严格出口管制作为反制措施，影响全球半导体衬底和光学器件供应链","source":"DigiTimes 2026-05-15","confidence":"high","impact":"medium"}
+{"company":"Huawei","date":"2026-05-17","category":"政策/制裁","signal":"国家集成电路产业投资基金(大基金)支持国产AI芯片发展，政策和资金双重推动国产替代","source":"行业通识","confidence":"high","impact":"high"}
+{"company":"Huawei","date":"2026-05-17","category":"竞争","signal":"美国制裁加速国产AI芯片采用，NVIDIA高端GPU对华受限后昇腾和寒武纪获得国产替代窗口期","source":"行业通识","confidence":"high","impact":"high"}
+{"company":"Huawei","date":"2026-05-17","category":"竞争","signal":"华为昇腾凭借全栈能力(芯片+框架+云)在国内AI训练芯片市场份额领先，寒武纪纯AI芯片公司软件生态较弱","source":"行业通识","confidence":"high","impact":"high"}
+{"company":"Cambricon","date":"2026-05-17","category":"竞争","signal":"国产AI芯片竞争者包括海光DCU、壁仞BR100、摩尔线程GPU、燧原云燧系列，国内市场群雄逐鹿","source":"行业通识","confidence":"medium","impact":"medium"}
